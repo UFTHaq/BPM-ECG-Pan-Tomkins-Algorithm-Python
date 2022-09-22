@@ -1,4 +1,11 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/UFTHaq/BPM-ECG-Pan-Tomkins-Algorithm-Python?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/UFTHaq/BPM-ECG-Pan-Tomkins-Algorithm-Python?label=Python&logo=python&logoColor=white&style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/UFTHaq/BPM-ECG-Pan-Tomkins-Algorithm-Python?logo=Jupyter&style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/UFTHaq/BPM-ECG-Pan-Tomkins-Algorithm-Python?style=for-the-badge)
+![Packagist Stars](https://img.shields.io/packagist/stars/UFTHaq/BPM-ECG-Pan-Tomkins-Algorithm-Python?style=for-the-badge)
+
 # BPM-ECG-Pan-Tomkins-Algorithm-Python
+
 
 forked from rbhatia46/Pan-Tompkins-Algorithm-Python
 
