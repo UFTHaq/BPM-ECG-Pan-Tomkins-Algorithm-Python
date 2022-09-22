@@ -2,7 +2,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/UFTHaq/BPM-ECG-Pan-Tomkins-Algorithm-Python?label=Python&logo=python&logoColor=white&style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/UFTHaq/BPM-ECG-Pan-Tomkins-Algorithm-Python?logo=Jupyter&style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/UFTHaq/BPM-ECG-Pan-Tomkins-Algorithm-Python?style=for-the-badge)
-![Packagist Stars](https://img.shields.io/packagist/stars/UFTHaq/BPM-ECG-Pan-Tomkins-Algorithm-Python?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/UFTHaq/BPM-ECG-Pan-Tomkins-Algorithm-Python?color=red&style=for-the-badge)
 
 # BPM-ECG-Pan-Tomkins-Algorithm-Python
 
