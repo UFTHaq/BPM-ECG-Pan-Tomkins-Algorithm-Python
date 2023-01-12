@@ -13,7 +13,7 @@ How to get Heart Beat per Minute (BPM) from ECG signal with Pan Tomkins Algorith
 
 Modified by me
 
-If you find this is useful, please leave a star.
+If you consider this page is useful, please leave a star
 
 ## ECG
 An electrocardiogram (ECG) is a simple test that can be used to check your heart's rhythm and electrical activity.
